@@ -1,0 +1,36 @@
+body {
+  background-color: #f8c7b2;
+}
+.navbar {
+  height: 100px;
+  width: 100% auto;
+}
+.navbar ul {
+  background-color: #ffe4c4;
+}
+.navbar ul li {
+  color: #a9a9a9;
+  list-style-type: none;
+  display: inline-block;
+  padding: 1em;
+}
+.navbar ul li:hover {
+  color: #545454;
+}
+.content1 {
+  margin: auto;
+  margin-top: 1em;
+  width: 60%;
+  border: 3px solid #f47f70;
+  padding: 10px;
+  background-color: #f5efec;
+  color: darken;
+}
+.content2 {
+  margin: auto;
+  margin-top: 1em;
+  width: 60%;
+  border: 3px solid #f47f70;
+  padding: 10px;
+  background-color: #f5efec;
+}
